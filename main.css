@@ -29,13 +29,13 @@ body{
   font-size: 15px;
   color: black;
   font-family: 'Roboto', sans-serif;
-  border: 8px solid black;
+  border: 8px solid white;
   background-color: white;
   radius: 20px;
 }
 
 .picture{
-  border: 8px solid black;
+  border: 8px solid white;
   background-color: white;
   height: 75%;
 }
