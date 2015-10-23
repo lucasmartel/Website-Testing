@@ -2,6 +2,7 @@ body{
   background-image: url(http://www.kynatins.com/images/WebsiteBackground.png)
 }
 
+
 .nav-bar{
   height: 200px;
   text-align: center;
@@ -45,5 +46,6 @@ body{
 .things{
   text-align: center;
   font-family: 'Roboto', sans-serif;
-  font-size: 40px; 
+  font-size: 40px;
+
 }
