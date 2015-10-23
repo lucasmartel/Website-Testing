@@ -16,9 +16,6 @@ body{
   font-family: 'Roboto', sans-serif;
 }
 
-.nav-bar ul li{
-  text-decoration: none;
-}
 
 .paragraph{
   text-align: center;
@@ -41,5 +38,12 @@ body{
 }
 
 .col_1{
-  padding-top: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.things{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px; 
 }
