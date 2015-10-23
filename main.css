@@ -1,12 +1,15 @@
 body{
   background-image: url(http://www.kynatins.com/images/WebsiteBackground.png)
 }
+
+#grad {
+  background: -webkit-linear-gradient(black, white);
+}
 .nav-bar{
-  background-image:url(http://www.montreat.org/wp-content/uploads/2014/04/header-night.jpg);
-  height: 75px;
+  height: 200px;
   text-align: center;
-  padding:1px;
-  border:8px solid white;
+  padding-top: 20px;
+  font-weight: 200;
 }
 
 .nav-bar a {
@@ -37,6 +40,7 @@ body{
 .picture{
   border: 8px solid black;
   background-color: white;
+  height: 75%;
 }
 
 .col_1{
