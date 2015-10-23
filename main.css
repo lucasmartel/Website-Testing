@@ -2,9 +2,6 @@ body{
   background-image: url(http://www.kynatins.com/images/WebsiteBackground.png)
 }
 
-#grad {
-  background: -webkit-linear-gradient(black, white);
-}
 .nav-bar{
   height: 200px;
   text-align: center;
