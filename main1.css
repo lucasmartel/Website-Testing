@@ -1,0 +1,16 @@
+body{
+  background-image: url(http://cdn.slashgear.com/wp-content/uploads/2012/10/google-datacenter-tech-02.jpg);
+}
+
+.content img{
+  border-radius: 50%;
+  height: 100px;
+}
+.content{
+  text-align: center;
+  font-size: 15px;
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  border: 8px solid white;
+  background-color: white;
+}
